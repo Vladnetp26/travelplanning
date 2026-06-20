@@ -60,6 +60,9 @@
 ├── docker-compose.yml
 ├── docker-compose.prod.yml
 └── README.md
+
+```
+Документация находятся в папке docs/.
 ```
 
 ## Автор
